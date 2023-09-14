@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["interzoid_currency_conversion_rate_to_slack_message_ky"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/ScheduledTask","Category/Integration"]
+  name = "interzoid_currency_conversion_rate_to_slack_message_ky"
+  org = "chalindu"
+  version = "3.1.0"
+
